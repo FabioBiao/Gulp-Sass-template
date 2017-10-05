@@ -16,20 +16,23 @@ npm install gulp
 npm install gulp-sass
 
 ## 4# set you gulpfile.js with the desired tasks. 
-On Gulpfile:
+Check Gulpfile.js to see the tasks:
 Task 1: is to compile or .scss files into a main.css 
 Task 2: is the default gulp. With a watch, every time you update a scss file it will generate a new main.css
 
 ## 5# All done, after this point just go to console and write "gulp" and you will start generating your css files. 
 Or use a task example of tasks on our gulpfile:
 gulp styles
+
 gulp main-styles
+
 gulp scripts
+
 gulp min-scripts
 
-## 6# 
-If you want to concat all files into one. This is usefull to create main.css for example. 
-Wrote this part with a diffrent syntax on gulpfile. You can try and see what works for you. 
+
+## 6# If you want to concat all files into one. 
+This is usefull to create main.css for example. 
 
 npm install gulp-concat gulp-rename gulp-uglify --save-dev
 
