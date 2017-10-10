@@ -1,7 +1,4 @@
-<div align="center">
-  <img width="256" heigth="256" src="/dist/gulp_sass.png" alt="gulp_sass logo">
-</div>
-
+![gulp_sass logo](/dist/gulp_sass.png "gulp_sass logo")
 # sass and gulp
 
 ## 1# Install [node](https://nodejs.org/en/)
