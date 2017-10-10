@@ -2,7 +2,7 @@
   <img width="256" heigth="256" src="/dist/img/gulp_sass.png" alt="gulp_sass logo">
 </div>
 
-# sass and gulp
+# sass and gulp guide
 
 ## 1# Install [node](https://nodejs.org/en/)
 
